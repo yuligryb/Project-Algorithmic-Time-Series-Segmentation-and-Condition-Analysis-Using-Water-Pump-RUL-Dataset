@@ -1,3 +1,16 @@
+## Dataset
+
+I got an error saying that the dataset used in this project is too large to store in the GitHub repository.
+
+Download it from Kaggle:
+
+https://www.kaggle.com/datasets/anseldsouza/water-pump-rul-predictive-maintenance
+
+After downloading, place the dataset in the following location:
+
+data/
+└── rul_hrs.csv 
+
 # Water Pump RUL Algorithmic Analysis
 
 This project analyzes time-series sensor data from a water pump machine using classical algorithms.
